@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Meddig tárolják a biztosítási szerződésekhez kapcsolódó adatokat?",
+    "generated_answer": "A biztosítási szerződésekhez kapcsolódó személyes adatokat a Biztosító a biztosítási szerződés megszűnését követő naptári év első napjától számított 8 évig őrzi meg."
+  },
+  {
+    "question": "Mi az a kötelező gépjármű-felelősségbiztosítás?",
+    "generated_answer": "A kötelező gépjármű-felelősségbiztosítás (KGFB) egy olyan felelősség típusú biztosítás, amely a károsultvédelem szem előtt tartásával, a jármű üzemeltetése során a biztosított felelősségi körébe tartozó károkozás esetén megtéríti a biztosított helyett az okozott kárt a károsult felé. Ezt a típusú biztosítást minden magyarországi telephelyű gépjármű üzembentartójának kötelező megkötnie és hatályban tartania."
+  },
+  {
+    "question": "Milyen esetekre nem terjed ki a biztosítás?",
+    "generated_answer": "A biztosítás nem terjed ki az ügyfél egészségi állapotával kapcsolatos esetekre."
+  },
+  {
+    "question": "Milyen dokumentumokat kérhet be a biztosító egy kárigényhez?",
+    "generated_answer": "A biztosító által kért dokumentumok egy kárigény esetén lehetnek: írásban tett nyilatkozat, írásbeli kamatigénylés, káresemény körülményeinek tisztázásához szükséges nyilatkozat, meghatalmazás a biztosító részére, károsult nyilatkozata a társbiztosítói előzmények adatkéréséhez, valamint egyedi, speciális kárigény esetén a kárigény jogosságát és mértékét igazoló irat."
+  },
+  {
+    "question": "Hogyan zajlik az adatkezelés a biztosítónál?",
+    "generated_answer": "Az adatkezelés a biztosítónál a személyes adatok védelmére és biztonságára összpontosít. A Biztosító gondoskodik arról, hogy az adatokhoz illetéktelen személy ne férhessen hozzá, ne hozhassa nyilvánosságra, ne továbbíthassa, valamint azokat ne módosíthassa, törölhesse. A Biztosító megtesz minden tőle telhetőt annak érdekében, hogy az adatok ne sérüljenek, illetve ne semmisüljenek meg. Az adatok tárolásának időtartamáról adatkezelési célonként nyújt tájékoztatást, és az adatokat a biztosítási jogviszonyra irányadó szabályok szerint kezeli."
+  },
+  {
+    "question": "Mi történik, ha az ügyfél nem járul hozzá az adatkezeléshez?",
+    "generated_answer": "Ha az ügyfél nem járul hozzá az adatkezeléshez, akkor a személyes adatokat nem lehet kezelni a megadott célból, kivéve, ha a Biztosító olyan kényszerítő erejű jogos okokat tud bizonyítani, amelyek elsőbbséget élveznek az ügyfél érdekeivel, jogaival és szabadságaival szemben, vagy amelyek jogi igények előterjesztéséhez, érvényesítéséhez vagy védelméhez kapcsolódnak. A hozzájárulás visszavonása a szolgáltatás nyújtásának ellehetetlenülését is eredményezheti, ha az adatkezelés nélkülözhetetlen a szerződés alapján nyújtott szolgáltatások megítéléséhez."
+  },
+  {
+    "question": "Mikor kezdődik a biztosítási fedezet?",
+    "generated_answer": "A biztosítási fedezet a szerződésben meghatározott időpontban kezdődik."
+  },
+  {
+    "question": "Milyen jogai vannak az ügyfélnek az adatkezeléssel kapcsolatban?",
+    "generated_answer": "Az ügyfél jogosult arra, hogy az Önre vonatkozó, a Biztosító rendelkezésére bocsátott személyes adatokat tagolt, széles körben használt, géppel olvasható formátumban megkapja, ha az adatkezelés hozzájáruláson, vagy szerződésen alapul és az adatkezelés automatizált módon történik. A jelen pont szerinti adathordozhatósághoz való jog nem teremt kötelezettséget arra vonatkozóan, hogy az adatokat a Biztosító törölje."
+  },
+  {
+    "question": "Kik férhetnek hozzá a biztosítási titoknak minősülő adatokhoz?",
+    "generated_answer": "Azok a személyek vagy szervezetek férhetnek hozzá a biztosítási titoknak minősülő adatokhoz, akikkel szemben a Biztosítónak a biztosítási titok megtartásának a kötelezettsége nem áll fenn a vonatkozó jogszabályok alapján."
+  },
+  {
+    "question": "Milyen célból kér a biztosító egészségügyi adatokat?",
+    "generated_answer": "A biztosító az egészségügyi adatokat a biztosítási szerződés megkötésével, módosításával, állományban tartásával, valamint a biztosítási szerződésből származó díjak, követelések megítélésével összefüggésben kezeli."
+  },
+  {
+    "question": "Mire vonatkozik a biztosítási titok fogalma?",
+    "generated_answer": "A biztosítási titok fogalma arra vonatkozik, hogy a biztosítóval vagy viszontbiztosítóval kapcsolatban tudomására jutott üzleti titkokat - időbeli korlátozás nélkül - meg kell őrizni. A titoktartási kötelezettség terheli a biztosító vagy viszontbiztosító tulajdonosait, vezetőit, alkalmazottait és mindazokat, akik a biztosítóval kapcsolatos tevékenységük során bármilyen módon hozzájutottak."
+  },
+  {
+    "question": "Mi történik az adatokkal a szerződés megszűnése után?",
+    "generated_answer": "Az adatok törlésre kerülnek a szerződés megszűnése után, amennyiben nincs peres vagy hatósági eljárás folyamatban, valamint nincs panaszkezelés az adott szerződés tekintetében. A határidő lejártát követően a személyes adatokat törlik a biztosítótól a jogszabályokban előírt adatmegőrzési kötelezettségek figyelembevételével."
+  },
+  {
+    "question": "Milyen esetekben kérhet a biztosító kiegészítő adatokat?",
+    "generated_answer": "A biztosító kiegészítő adatokat kérhet a szerződésekre (szerződőre, járműre) vonatkozó nem pénzösszeg típusú jellemzők esetében, a részkárokra vonatkozó nem pénzösszeg típusú jellemzők esetében, a kárkifizetésekre és kártartalékokra vonatkozó adatok esetében, valamint a változó kockázati tényezőkre vonatkozó adatok esetében."
+  },
+  {
+    "question": "Mi a teendő, ha az ügyfél vitatja a biztosító döntését?",
+    "generated_answer": "Az ügyfélnek lehetősége van arra, hogy vitassa a biztosító döntését, és ebben az esetben további nyilatkozatokat kérhet be a biztosító. A biztosító jogosult ellenőrizni a döntés valódiságát, és megalapozatlanság esetén további információkat kérhet az ügyféltől."
+  }
+]

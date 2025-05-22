@@ -1,0 +1,114 @@
+[
+  {
+    "question": "Meddig tárolják a biztosítási szerződésekhez kapcsolódó adatokat?",
+    "answer": "A biztosító a szerződés megszűnését követő naptári év első napjától számított 8 évig tárolja az adatokat.",
+    "contexts": [
+      "A biztosítási szerződéshez kapcsolódó személyes adatokat a biztosító a szerződés megszűnését követő naptári év első napjától számított 8 évig őrzi meg."
+    ],
+    "ground_truth": "8 év szerződés megszűnését követő naptári év"
+  },
+  {
+    "question": "Mi az a kötelező gépjármű-felelősségbiztosítás?",
+    "answer": "Ez a biztosítás a jármű üzemeltetése során okozott károk fedezetére szolgál.",
+    "contexts": [
+      "A kötelező gépjármű-felelősségbiztosítás a jármű üzemeltetése során okozott dologi és személyi károk fedezetére szolgál."
+    ],
+    "ground_truth": "jármű üzemeltetése kár fedezete"
+  },
+  {
+    "question": "Milyen esetekre nem terjed ki a biztosítás?",
+    "answer": "A biztosítás nem terjed ki például háborús cselekményre, versenyre, vagy karbantartás közben okozott károkra.",
+    "contexts": [
+      "Nem terjed ki a biztosítás olyan károkra, amelyek háborús cselekmény, verseny, vagy karbantartási művelet közben keletkeztek."
+    ],
+    "ground_truth": "háborús cselekmény karbantartás verseny"
+  },
+  {
+    "question": "Milyen dokumentumokat kérhet be a biztosító egy kárigényhez?",
+    "answer": "A biztosító kérhet fényképeket, jegyzőkönyvet, orvosi papírokat és bankszámlaszámot.",
+    "contexts": [
+      "A biztosító a kárigény elbírálásához kérheti a károsult fényképeit, rendőrségi jegyzőkönyvet, orvosi dokumentumokat, valamint a bankszámlaszámot."
+    ],
+    "ground_truth": "jegyzőkönyv orvosi dokumentum bankszámlaszám"
+  },
+  {
+    "question": "Hogyan zajlik az adatkezelés a biztosítónál?",
+    "answer": "A biztosító az adatkezelést a GDPR előírásai alapján végzi, csak a célhoz kötötten és meghatározott ideig.",
+    "contexts": [
+      "A biztosító az adatokat a GDPR és az Infotv. alapján, kizárólag a szükséges cél érdekében, a törvényben meghatározott ideig kezeli."
+    ],
+    "ground_truth": "GDPR célhoz kötött meghatározott ideig"
+  },
+  {
+    "question": "Mi történik, ha az ügyfél nem járul hozzá az adatkezeléshez?",
+    "answer": "Ha az ügyfél nem járul hozzá, a szerződés megkötése és a szolgáltatás nyújtása ellehetetlenülhet.",
+    "contexts": [
+      "Az adatok hiánya a biztosítási ajánlat visszautasítását, valamint a szolgáltatás ellehetetlenülését vonhatja maga után."
+    ],
+    "ground_truth": "visszautasítás szolgáltatás ellehetetlenülése"
+  },
+  {
+    "question": "Mikor kezdődik a biztosítási fedezet?",
+    "answer": "A biztosítási fedezet a szerződésben meghatározott időpontban kezdődik.",
+    "contexts": [
+      "A biztosítási fedezet a szerződésben meghatározott időpontban kezdődik."
+    ],
+    "ground_truth": "szerződésben meghatározott időpont"
+  },
+  {
+    "question": "Milyen jogai vannak az ügyfélnek az adatkezeléssel kapcsolatban?",
+    "answer": "Az ügyfél kérheti adataihoz való hozzáférést, helyesbítést, törlést, valamint tiltakozhat a kezelés ellen és kérheti az adathordozhatóságot.",
+    "contexts": [
+      "Az érintett hozzáférhet az adataihoz, kérheti azok helyesbítését, törlését, korlátozását, tiltakozhat és élhet adathordozási jogával."
+    ],
+    "ground_truth": "hozzáférés törlés adathordozhatóság"
+  },
+  {
+    "question": "Kik férhetnek hozzá a biztosítási titoknak minősülő adatokhoz?",
+    "answer": "Kizárólag a biztosító, valamint az arra jogosult hatóságok és személyek férhetnek hozzá.",
+    "contexts": [
+      "Biztosítási titok csak akkor adható ki harmadik személynek, ha azt törvény vagy az érintett engedélyezi."
+    ],
+    "ground_truth": "biztosító hatóság érintett engedélye"
+  },
+  {
+    "question": "Milyen célból kér a biztosító egészségügyi adatokat?",
+    "answer": "A biztosító az egészségügyi adatokat a kockázat-elbírálás és a kárigény elbírálása céljából kéri be.",
+    "contexts": [
+      "Az egészségügyi adatokat a biztosító a biztosítási esemény bekövetkezésekor a szolgáltatási igény elbírálásához használja."
+    ],
+    "ground_truth": "kockázat-elbírálás kárigény elbírálása"
+  },
+  {
+    "question": "Mire vonatkozik a biztosítási titok fogalma?",
+    "answer": "Minden olyan adat, amely a biztosított személyi, vagyoni helyzetére, valamint a biztosítási szerződésre vonatkozik.",
+    "contexts": [
+      "Biztosítási titok minden olyan adat, amely a biztosított vagy a szerződő fél személyére, vagyoni helyzetére, gazdálkodására vonatkozik."
+    ],
+    "ground_truth": "személyi vagyoni helyzet biztosítási szerződés"
+  },
+  {
+    "question": "Mi történik az adatokkal a szerződés megszűnése után?",
+    "answer": "A biztosító az adatokat 8 évig megőrzi, majd törli, kivéve ha jogi eljárás van folyamatban.",
+    "contexts": [
+      "A biztosítási szerződés megszűnését követően az adatok 8 évig megőrzésre kerülnek, kivéve ha jogi vagy hatósági eljárás van folyamatban."
+    ],
+    "ground_truth": "8 év jogi eljárás"
+  },
+  {
+    "question": "Milyen esetekben kérhet a biztosító kiegészítő adatokat?",
+    "answer": "Kiegészítő adatokat kérhet például egészségkárosodás vagy vitatott kárigény esetén.",
+    "contexts": [
+      "A biztosító kérhet kiegészítő adatokat például baleset, egészségkárosodás vagy vitás ügyek esetén."
+    ],
+    "ground_truth": "egészségkárosodás vitás ügy"
+  },
+  {
+    "question": "Mi a teendő, ha az ügyfél vitatja a biztosító döntését?",
+    "answer": "Az ügyfél panaszt tehet vagy jogorvoslattal élhet a biztosító döntése ellen.",
+    "contexts": [
+      "Az ügyfél jogosult panaszt benyújtani vagy jogi úton kérni a biztosító döntésének felülvizsgálatát."
+    ],
+    "ground_truth": "panasz jogorvoslat"
+  }
+]

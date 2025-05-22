@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Meddig tárolják a biztosítási szerződésekhez kapcsolódó adatokat?",
+    "result": "✅",
+    "notes": "Correct: mentions 8 év, aligned phrasing"
+  },
+  {
+    "question": "Mi az a kötelező gépjármű-felelősségbiztosítás?",
+    "result": "✅",
+    "notes": "Excellent, detailed, includes legal obligation"
+  },
+  {
+    "question": "Milyen esetekre nem terjed ki a biztosítás?",
+    "result": "❌",
+    "notes": "Incorrect: says 'egészségi állapot', doesn’t match exclusions"
+  },
+  {
+    "question": "Milyen dokumentumokat kérhet be a biztosító egy kárigényhez?",
+    "result": "✅",
+    "notes": "Good, detailed and consistent with policy structure"
+  },
+  {
+    "question": "Hogyan zajlik az adatkezelés a biztosítónál?",
+    "result": "✅",
+    "notes": "Accurate, structured, but verbose — acceptable"
+  },
+  {
+    "question": "Mi történik, ha az ügyfél nem járul hozzá az adatkezeléshez?",
+    "result": "✅",
+    "notes": "Complete and faithful explanation"
+  },
+  {
+    "question": "Mikor kezdődik a biztosítási fedezet?",
+    "result": "✅",
+    "notes": "Exact match"
+  },
+  {
+    "question": "Milyen jogai vannak az ügyfélnek az adatkezeléssel kapcsolatban?",
+    "result": "⚠️",
+    "notes": "Mentions adathordozhatóság, but misses hozzáférés / törlés"
+  },
+  {
+    "question": "Kik férhetnek hozzá a biztosítási titoknak minősülő adatokhoz?",
+    "result": "⚠️",
+    "notes": "General description; doesn’t clearly mention biztosító / hatóság"
+  },
+  {
+    "question": "Milyen célból kér a biztosító egészségügyi adatokat?",
+    "result": "✅",
+    "notes": "Clear and correct explanation"
+  },
+  {
+    "question": "Mire vonatkozik a biztosítási titok fogalma?",
+    "result": "⚠️",
+    "notes": "More about titoktartási kötelezettség, less about tartalom"
+  },
+  {
+    "question": "Mi történik az adatokkal a szerződés megszűnése után?",
+    "result": "✅",
+    "notes": "Includes törlés + jogi eljárás — good"
+  },
+  {
+    "question": "Milyen esetekben kérhet a biztosító kiegészítő adatokat?",
+    "result": "⚠️",
+    "notes": "Legal & statistical terms used instead of user-facing reasons"
+  },
+  {
+    "question": "Mi a teendő, ha az ügyfél vitatja a biztosító döntését?",
+    "result": "❌",
+    "notes": "Vague and procedural, misses jogorvoslat / panasz"
+  }
+]

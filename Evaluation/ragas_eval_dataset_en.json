@@ -1,0 +1,114 @@
+[
+  {
+    "question": "How long are insurance contract-related data stored?",
+    "answer": "The insurer stores the data for 8 years from the first day of the calendar year following the termination of the contract.",
+    "contexts": [
+      "The insurer retains personal data related to the insurance contract for 8 years from the first day of the calendar year following the contract termination."
+    ],
+    "ground_truth": "8 years from the first day of the year after contract termination"
+  },
+  {
+    "question": "What is mandatory vehicle liability insurance?",
+    "answer": "This insurance covers damages caused during the operation of the vehicle.",
+    "contexts": [
+      "Mandatory vehicle liability insurance covers property and personal damages caused during the operation of the vehicle."
+    ],
+    "ground_truth": "vehicle operation damage coverage"
+  },
+  {
+    "question": "What cases are not covered by the insurance?",
+    "answer": "Insurance does not cover damages caused during war actions, races, or maintenance.",
+    "contexts": [
+      "Insurance does not cover damages resulting from war actions, races, or during maintenance operations."
+    ],
+    "ground_truth": "war actions maintenance race"
+  },
+  {
+    "question": "What documents can the insurer request for a claim?",
+    "answer": "The insurer may request photos, police reports, medical documents, and bank account numbers.",
+    "contexts": [
+      "The insurer may request the claimant’s photos, police reports, medical documents, and bank account numbers for claim assessment."
+    ],
+    "ground_truth": "police report medical document bank account number"
+  },
+  {
+    "question": "How does data processing work at the insurer?",
+    "answer": "The insurer processes data according to GDPR, only for a specific purpose and for a defined period.",
+    "contexts": [
+      "The insurer processes the data according to GDPR and the Infotv., only for the necessary purpose and for the legally defined duration."
+    ],
+    "ground_truth": "GDPR purpose-bound defined period"
+  },
+  {
+    "question": "What happens if the customer does not consent to data processing?",
+    "answer": "If the customer does not consent, the contract and the service may become impossible to execute.",
+    "contexts": [
+      "Lack of data may result in rejection of the insurance offer and make the provision of services impossible."
+    ],
+    "ground_truth": "rejection service impossibility"
+  },
+  {
+    "question": "When does insurance coverage begin?",
+    "answer": "Insurance coverage begins at the date specified in the contract.",
+    "contexts": [
+      "Insurance coverage starts on the date specified in the contract."
+    ],
+    "ground_truth": "date specified in the contract"
+  },
+  {
+    "question": "What rights does the customer have regarding data processing?",
+    "answer": "The customer can request access to, correction, deletion of data, object to processing, and request data portability.",
+    "contexts": [
+      "The data subject can access, correct, delete, restrict, object to the processing, and exercise data portability rights."
+    ],
+    "ground_truth": "access deletion data portability"
+  },
+  {
+    "question": "Who can access data considered as insurance secrets?",
+    "answer": "Only the insurer and authorized authorities and individuals can access it.",
+    "contexts": [
+      "Insurance secrets may only be disclosed to third parties if permitted by law or authorized by the data subject."
+    ],
+    "ground_truth": "insurer authority subject authorization"
+  },
+  {
+    "question": "For what purpose does the insurer request medical data?",
+    "answer": "The insurer requests medical data for risk assessment and claim evaluation.",
+    "contexts": [
+      "The insurer uses medical data at the occurrence of an insurance event to assess service eligibility."
+    ],
+    "ground_truth": "risk assessment claim evaluation"
+  },
+  {
+    "question": "What does the term insurance secret refer to?",
+    "answer": "It includes all data related to the insured's personal or financial situation and the insurance contract.",
+    "contexts": [
+      "Insurance secret includes all data concerning the personal or financial situation or management of the insured or policyholder."
+    ],
+    "ground_truth": "personal financial situation insurance contract"
+  },
+  {
+    "question": "What happens to the data after the contract ends?",
+    "answer": "The insurer retains the data for 8 years, then deletes it unless legal proceedings are ongoing.",
+    "contexts": [
+      "After the insurance contract ends, data are kept for 8 years unless legal or regulatory proceedings are in progress."
+    ],
+    "ground_truth": "8 years legal proceedings"
+  },
+  {
+    "question": "When can the insurer request additional data?",
+    "answer": "The insurer may request additional data in case of health impairment or disputed claims.",
+    "contexts": [
+      "The insurer may request additional data in case of accidents, health impairment, or disputed matters."
+    ],
+    "ground_truth": "health impairment disputed case"
+  },
+  {
+    "question": "What can the customer do if they dispute the insurer’s decision?",
+    "answer": "The customer can file a complaint or seek legal remedy against the insurer’s decision.",
+    "contexts": [
+      "The customer is entitled to file a complaint or request a legal review of the insurer’s decision."
+    ],
+    "ground_truth": "complaint legal remedy"
+  }
+]
