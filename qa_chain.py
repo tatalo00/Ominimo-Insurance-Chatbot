@@ -41,7 +41,7 @@ Válasz magyarul:
 
 # --- Load Retriever and LLM ---
 retriever = get_retriever()
-llm = ChatOpenAI(model_name=MODEL_NAME, temperature=0)
+llm = ChatOpenAI(model_name=MODEL_NAME, api_key=OPENAI_API_KEY, temperature=0)
 
 prompt = PromptTemplate(
     template=prompt_template_english,
