@@ -3,17 +3,17 @@ from pathlib import Path
 from dotenv import load_dotenv
 from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings
-
+import os
 
 load_dotenv()
 
 # --- CONFIG ---
 EMBEDDING_DIR = "vectordb"
-#OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 
 # --- Load FAISS Index and Embedding Model ---
-embedding_function = OpenAIEmbeddings(model="text-embedding-3-large")
+embedding_function = OpenAIEmbeddings(model="text-embedding-3-large", api_key=OPENAI_API_KEY)
 
 def get_retriever():
     if not Path(EMBEDDING_DIR).exists():
@@ -24,7 +24,7 @@ def get_retriever():
     return retriever
 
 def load_faiss_index(index_path="vectordb"):
-    embedding_model = OpenAIEmbeddings(model="text-embedding-3-large")
+    embedding_model = OpenAIEmbeddings(model="text-embedding-3-large", api_key=OPENAI_API_KEY)
     return FAISS.load_local(index_path, embedding_model, allow_dangerous_deserialization=True), embedding_model
 
 # --- Example usage ---
